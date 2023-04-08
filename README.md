@@ -18,4 +18,4 @@ python3 qa.py # load data and qa
 
 效果图如下：
 
-<img src="qa.png" alt="export" width="300"/>
+<img src="qa.png" alt="export" width="900"/>
