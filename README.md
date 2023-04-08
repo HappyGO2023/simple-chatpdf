@@ -1,4 +1,4 @@
-### 获取了在维基百科的中国历史数据并进行相关问答 https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2 ，整理的数据放到了文件china_history.txt中。
+获取了在维基百科的中国历史数据并进行相关问答 https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2 ，整理的数据放到了文件china_history.txt中。
 
 ### 脚本执行步骤：
 1.安装关联包
