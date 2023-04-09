@@ -18,7 +18,7 @@ def load_embedding():
 # 参考https://python.langchain.com/en/latest/modules/chains/index_examples/question_answering.html?highlight=context
 # langchain的DOC写的是真乱...
 def prompt(query):
-    prompt_template = """参考context，有且仅回答关联的相信，如果没有结果请回答我不知道；用中文回答，
+    prompt_template = """参考context，有且仅回答关联的信息，如果没有结果请回答我不知道；用中文回答，
     Context: {context}
     Question: {question}
     Answer:"""
