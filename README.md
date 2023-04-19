@@ -15,7 +15,3 @@ export OPENAI_API_KEY=....
 python3 embedding.py # embedding and persist
 python3 qa.py # load data and qa
 ```
-
-效果图如下：
-
-<img src="qa.png" alt="export" width="900"/>

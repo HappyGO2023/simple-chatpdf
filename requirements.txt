@@ -1,2 +1,4 @@
-langchain==0.0.134
+langchain
 openai
+PyPDF2
+chromadb
